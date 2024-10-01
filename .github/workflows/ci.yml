@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Group22 CI Workflow
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
