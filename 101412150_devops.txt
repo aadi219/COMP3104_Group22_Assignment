@@ -1,0 +1,3 @@
+COMP3104 is a 3rd semester course in T177.
+This course is taught by Pritesh Patel.
+We learn industry standard developer operations, version control and CI/CD technologies.
