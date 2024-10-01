@@ -1,0 +1,3 @@
+COMP3104 is a course at gbc, 
+it is a devops course that goes over pipelines,
+CICD, version control, and many other devops concepts.

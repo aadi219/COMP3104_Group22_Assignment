@@ -2,7 +2,7 @@
 
 ## Group Members
 
-- **Leader:** Aadi Badola (101412150) - [GitHub](https://github.com/aadi219) - **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Leader:** Aadi Badola (101412150) - [GitHub](https://github.com/aadi219) - **Member 2:** Tyler O'Neil (101434244) - [GitHub](https://github.com/tyleroneil72)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 
 ## Project Description
