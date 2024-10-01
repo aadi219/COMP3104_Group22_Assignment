@@ -4,6 +4,7 @@
 
 - **Leader:** Aadi Badola (101412150) - [GitHub](https://github.com/aadi219) - **Member 2:** Tyler O'Neil (101434244) - [GitHub](https://github.com/tyleroneil72)
 - **Member 3:** Haley Kim (101427440) - [GitHub](https://github.com/Haley-k)
+- **Member 4:** Cheuk Man Sit (101422756) - [GitHub](https://github.com/cheukman196)
 
 ## Project Description
 
