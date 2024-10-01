@@ -1,4 +1,4 @@
-# COMP3104_Group1_Assignment
+# COMP3104_Group22_Assignment
 
 ## Group Members
 
