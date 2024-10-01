@@ -1,0 +1,2 @@
+DevOps is essential for the proper development and maintenance of every software development project.
+It teaches CI/CD fundamentals ensuring consistent development while maintaining a robust and functioning code base.
